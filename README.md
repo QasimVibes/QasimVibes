@@ -67,6 +67,4 @@ When I’m not coding, I enjoy **traveling 🌍** to new places and exploring **
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimvibes&show_icons=true&locale=en&layout=compact" alt="qasimvibes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasimvibes&show_icons=true&locale=en" alt="qasimvibes" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasimvibes&" alt="qasimvibes" /></p>
