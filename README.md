@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=65D2F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+there%2C;I+am+Muhammad+Qasim%2C+aka+QasimVibes.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=65D2F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+there%2C;I+am+Muhammad+Qasim%2C+aka+Qasim.)](https://git.io/typing-svg)
 
 <h3 align="center">💻 Software Engineer | Full-Stack Developer (Web & React Native)</h3> <p align="center">Building Scalable and High-Performance Applications</p>
 
@@ -51,7 +51,7 @@ When I’m not coding, I enjoy **traveling 🌍** to new places and exploring **
 
 ## 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimvibes&theme=dark&hide_border=false" height="150" alt="qasimvibes"/> 
+<p align="left" style="display: flex; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimvibes&theme=dark&hide_border=false" height="150" alt="qasimvibes"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimvibes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="qasimvibes"/>  
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimvibes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="qasimvibes"/> </p>
