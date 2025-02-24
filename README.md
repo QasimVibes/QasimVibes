@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=65D2F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+there%2C;I+am+Muhammad+Qasim%2C+aka+Qasim.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=65D2F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+there%2C;I+am+Muhammad+Qasim%2C+aka+Qasim.)]
 
 <h3 align="center">💻 Software Engineer | Full-Stack Developer (Web & React Native)</h3> <p align="center">Building Scalable and High-Performance Applications</p>
 
