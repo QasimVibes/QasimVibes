@@ -49,7 +49,6 @@ If you have an exciting project or idea, let’s connect and build something imp
 
 <p align="left" style="display: flex; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimvibes&theme=dark&hide_border=false" height="150" alt="qasimvibes"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimvibes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="qasimvibes"/>  
 </p>
 
 
