@@ -45,7 +45,7 @@ If you have an exciting project or idea, let’s connect and build something imp
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <p align="left" style="display: flex; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimvibes&theme=dark&hide_border=false" height="150" alt="qasimvibes"/>  
