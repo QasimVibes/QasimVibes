@@ -30,7 +30,7 @@ I love exploring new technologies and best practices to enhance my skills and cr
 
 I’m passionate about contributing to **open-source projects** and collaborating with like-minded developers to solve real-world problems.
 
-If you have an exciting project or idea, let’s connect and build something impactful together!
+If you have an exciting project or idea, let’s connect and build something impactful together
 
 ---
 
