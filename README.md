@@ -1,45 +1,177 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=65D2F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+there%2C;I+am+Muhammad+Qasim%2C+aka+Qasim.)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=65D2F7\&vCenter=true\&width=500\&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Qasim;Full-Stack+%26+AI+Software+Engineer;Building+Scalable+Web+%26+AI+Applications)](https://git.io/typing-svg)
 
-<h3 align="center">💻 Software Engineer | Full-Stack Developer </h3> <p align="center">Building Scalable and High-Performance Applications</p>
+<h3 align="center">💻 Full-Stack & AI Software Engineer</h3>
 
-
----
-
-## 🚀 About Me
-
-I’m a passionate **Software Engineer** and **Full Stack Developer**, specializing in building modern, scalable, and user-centric applications for **web** and **mobile platforms**.
-
-With expertise in:
-
-- **React.js**, **Next.js**, and **React Native** for seamless front-end development
-- **Node.js**, **Express**, **MongoDB**, and **PostgreSQL** for robust back-end solutions
-
-I love exploring new technologies and best practices to enhance my skills and create impactful solutions.
+<p align="center">
+  Building scalable, high-performance, and user-focused web applications
+  <br />
+  <b>React • Next.js • Node.js • TypeScript • AI • REST APIs</b>
+</p>
 
 ---
 
-## 🌱 What I’m Currently Learning
+## 👨‍💻 About Me
 
-- Mastering **Next.js** for **server-side rendering (SSR)** and **static site generation (SSG)** to optimize performance and SEO.
-- Exploring advanced **React.js** patterns and state management techniques.
-- Deepening my knowledge of **backend development** with Node.js, Express, and databases.
+I'm **Muhammad Qasim**, a **Full-Stack & AI Software Engineer** with **1+ years of professional experience** building modern web applications, APIs, SaaS platforms, and scalable backend systems.
+
+I enjoy working across the full development lifecycle — from designing responsive interfaces and reusable frontend architectures to building APIs, database systems, authentication flows, microservices, automation workflows, and production deployments.
+
+### 🚀 What I Work With
+
+* ⚛️ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, MUI
+* 🧩 **Backend:** Node.js, Express.js, REST APIs, Microservices
+* 🗄️ **Databases:** MongoDB, PostgreSQL, Supabase
+* 🔐 **Authentication:** JWT, OAuth 2.0
+* 💳 **Integrations:** Payment & billing workflows, third-party APIs
+* 🤖 **AI & Automation:** AI-powered applications, n8n workflows, API integrations
+* ☁️ **Deployment & DevOps:** Docker, Vercel, AWS S3, GitHub Actions
+* 📱 **Mobile:** React Native
+* 🧠 **State & Data:** Zustand, Redux Toolkit, React Query
+* 🔗 **APIs:** REST, GraphQL
 
 ---
 
-## 💞️ Collaboration
+## 💼 Professional Experience
 
-I’m passionate about contributing to **open-source projects** and collaborating with like-minded developers to solve real-world problems.
+### 🚀 Software Engineer — InnovaSynx
 
-If you have an exciting project or idea, let’s connect and build something impactful together
+Working on modern, production-ready applications using:
+
+* Next.js and React.js
+* TypeScript
+* Node.js and Express.js
+* Microservice-based backend architecture
+* MongoDB and PostgreSQL/Supabase
+* OAuth 2.0 authentication
+* Payment and billing workflows
+* REST APIs
+* Docker and cloud-based deployments
 
 ---
 
-## 📬 Connect with Me
+### ⚡ Software Engineer — Solvify Codes
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/qasimrazzaq007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadqasim682) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasimvibes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qasimrazzaq143@gmail.com)
+Worked on improving existing applications and backend architecture, including:
 
+* Refactoring backend APIs using **Clean Architecture**
+* Upgrading applications to **Next.js 14**
+* Building strongly typed applications with **TypeScript**
+* Implementing state management with **Zustand**
+* Improving application structure, maintainability, and scalability
 
-## 🛠️ Languages and Tools
+---
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Tech Stack
 
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge\&logo=mui\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23443333.svg?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=for-the-badge\&logo=reactquery\&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST_APIs-%23000000.svg?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-%23000000.svg?style=for-the-badge)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+
+### AI, Automation & Workflows
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge\&logo=openai\&logoColor=white)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🎯 Currently Focused On
+
+* 🚀 Building scalable **Full-Stack applications**
+* 🤖 Developing **AI-powered applications and SaaS products**
+* 🔄 Building **automation workflows with n8n**
+* ⚛️ Advanced **React & Next.js** architecture
+* 🧩 Designing maintainable **backend and API architectures**
+* 🏗️ Microservices and scalable application design
+* ☁️ Docker, cloud deployment, and CI/CD
+* 🔗 Integrating AI models, APIs, and automation tools
+* 📈 Improving application performance, security, and developer experience
+
+---
+
+## 🎓 Education
+
+**B.S. Software Engineering**
+Virtual University of Pakistan
+**2021 – 2025** | CGPA: **3.34 / 4.00**
+
+---
+
+## 🌱 Open Source & Collaboration
+
+I'm always interested in:
+
+* 🤝 Collaborating on interesting software projects
+* 🌍 Contributing to open-source projects
+* 💡 Building useful products and SaaS ideas
+* 🤖 Exploring AI and automation
+* 🧠 Learning from other developers
+* 🚀 Turning ideas into production-ready applications
+
+If you're working on something interesting, feel free to connect!
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/qasimvibes)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/qasimvibes)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge\&logo=Facebook\&logoColor=white)](https://facebook.com/qasimrazzaq007)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/muhammadqasim682)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:qasimrazzaq143@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qasimvibes&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Qasim's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimvibes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Build. Learn. Automate. Ship. Repeat. 🚀</b>
+</p>
