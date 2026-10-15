@@ -160,18 +160,6 @@ If you're working on something interesting, feel free to connect!
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qasimvibes&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Qasim's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimvibes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <b>💻 Build. Learn. Automate. Ship. Repeat. 🚀</b>
 </p>
